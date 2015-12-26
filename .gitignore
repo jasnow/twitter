@@ -9,3 +9,6 @@ doc/*
 log/*
 measurement/*
 pkg/*
+
+# Added these to not force other to use them.
+.overcommit.yml
